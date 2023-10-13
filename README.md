@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project, I built an Azure home lab for cybersecurity involving a vulnerable VM client and an OpenVAS, a vulnerability scanner, to conduct security scans. The scan results helped identify vulnerabilities, allowing for targeted remediation actions.
+In this project, I built an Azure home lab involving a vulnerable VM client and OpenVAS, a vulnerability scanner, to conduct security scans. The scan results helped identify vulnerabilities, allowing for targeted remediation actions.
 
 
 ## Deploying Vulnerability Management Scanner 
